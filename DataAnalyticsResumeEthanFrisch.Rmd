@@ -1,0 +1,145 @@
+---
+title: "Ethan Frisch"
+author: Ethan M Frisch
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
+- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ethan Frisch {#title}
+--------------------------------------------------------------------------------
+
+### Graduate Student seeking Summer 2021 full time PM/Engineering Job
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Innovation and Management
+
+Medford, MA
+
+2020--Current
+
+### Cornell University
+
+MEng Civil and Environmental Engineering
+
+Ithaca, NY
+
+2018--2019
+
+
+### Virginia Tech
+
+B.S. in Mechanical Engineering
+
+Blacksburg, VA 
+
+2014--2018
+
+
+
+Academic Projects {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Tufts University
+
+Medford, MA
+
+2014--2019
+
+- Developed research questions 
+- Provided additional guidance for undergraduate mentors
+
+### Project Manager – Spectral Key: Jan. 2021 – present
+-	Developed marketing skills with branding / value proposition and financial skills with a 5-year pro-forma
+-	Pitched business idea in front of industry experts and potential investors
+-	MIT NSF I-corps Spark Program
+-	Finalist in 100k Competition at Tufts University: Cummings Prize Winner
+-	Developing and marketing TPV technology
+
+###Graduate Student Project Manager - Wetlands and Stream Restoration Project: Aug. 2018 – May 2019
+-	Worked on the well sub-team to assist in building wells for testing where the water table was on the desired parcel of land, as well as wetland delineation and bathymetry
+
+###Puerto Rico Interdisciplinary Project: Aug. 2018 – May 2019
+-	Worked with a group of students in a variety of disciplines to help Puerto Rico in the aftermath of Hurricane Maria to renovate a cistern in Vieques, Puerto Rico designed to provide 2,000 gallons of potable water for emergencies and a gray water system for both gardening and bathrooms
+
+###Wind Turbine Design Team: Sept. 2016 – May 2018
+-	Tower/Integration sub-team and focused on how to raise the tower
+-	Siting sub-team: Determined the best wind turbine to place within a 100-mile radius of Virginia Tech and oversaw the CAD portion of the project
+
+
+Skills {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+-	Modeling: Autodesk Inventor, Autodesk Civil 3D, CATIA, Creo, NX, HEC-RAS
+-	Coding: Python, R, MATLAB, Microsoft Excel
+
+Experience {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+###FBI HONORS INTERNSHIP, DEPARTMENT OF JUSTICE: June 2017 - August 2018
+-	Used LEED certification checklist to apply green building aspects into the concept design of a newly renovated cafeteria and researched different ways the cafeteria could obtain LEED silver
+-	Studied the maintenance of mechanical system (HVAC) and their components
+
+Certifications & Activities & Additional Info {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+- Engineer in Training – March 2019 (NCEES)
+- Traveled to Australia and Europe after graduating from Cornell University to 18 cities, across 7 countries
+
+
